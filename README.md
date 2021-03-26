@@ -6,9 +6,9 @@ React.js, Firebase, Node.js, Stripe API
 ```
 
 Live Demo - 
-```
-https://amazonreactfirebase.netlify.app/
-```
+
+<a href="https://amazonreactfirebase.netlify.app/">https://amazonreactfirebase.netlify.app/<a/>
+
 
 Some views ... 
 
