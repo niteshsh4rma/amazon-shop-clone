@@ -2,7 +2,7 @@
 
 Tech Stack - 
 ```
-React.js, Firebase, Node.js (Firebase functions)
+React.js, Firebase, Node.js, Stripe API
 ```
 
 Live Demo - 
