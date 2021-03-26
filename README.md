@@ -1,6 +1,14 @@
 # Amazon Shop Clone
 
-Tech Stack - React.js, Firebase, Node.js (Firebase functions)
+Tech Stack - 
+```
+React.js, Firebase, Node.js (Firebase functions)
+```
+
+Live Demo - 
+```
+https://amazonreactfirebase.netlify.app/
+```
 
 Some views ... 
 
